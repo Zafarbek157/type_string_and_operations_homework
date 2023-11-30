@@ -6,4 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a="QWERTYI"
+    return a
+print(main())

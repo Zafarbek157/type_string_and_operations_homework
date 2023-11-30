@@ -6,4 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    s="codeschool.uz"
+    return s[0]
+print(main())

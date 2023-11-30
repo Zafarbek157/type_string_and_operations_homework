@@ -5,4 +5,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a="qwertyui"
+    return a
+print(main())

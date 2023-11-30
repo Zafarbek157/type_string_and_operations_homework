@@ -1,4 +1,4 @@
-def main(s,n):
+def main():
     """
     s string is given. repeat it n times and return the resulting string.
     Args:
@@ -7,4 +7,6 @@ def main(s,n):
     Returns:
         str: return answer.
     """
-    return 
+    s="code"*3
+    return s
+print(main())

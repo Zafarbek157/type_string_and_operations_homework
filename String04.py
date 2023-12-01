@@ -7,4 +7,4 @@ def main(s):
         str: return answer.
     """
     return '"'+s+'"'
-print(main("code")) 
+print(main("python")) 

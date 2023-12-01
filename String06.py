@@ -1,4 +1,4 @@
-def main():
+def main(s):
     """
     s string is given. repeat it n times and return the resulting string.
     Args:

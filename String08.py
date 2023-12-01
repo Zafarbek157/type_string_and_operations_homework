@@ -1,4 +1,4 @@
-def main(S,K):
+def main(S):
     """
     Given two strings, first_name and last_name, return a single string in the format "last, first".
     Args:
@@ -7,7 +7,6 @@ def main(S,K):
     Returns:
         str: return answer.
     """
-    S="Zafarbek"
-    K="Saidaxmadov"
-    return S,K
-print(main("S,k"))
+    S="Zafarbek, Saidaxmadov"
+    return S
+print(main())

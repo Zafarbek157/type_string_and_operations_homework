@@ -9,6 +9,5 @@ def main(x,y):
     """
     x="a"
     y="b"
-
-    return "(a+b)*2"
-print(main())
+    return x,y
+print(main("(a+b)*2"))

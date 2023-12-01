@@ -7,6 +7,6 @@ def main():
         str: return answer.
     """
     s = "s"
-    a="\bs"
+    a="s"
     return a
 print(main()) 

@@ -7,7 +7,6 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    s1="abc"
-    s2="sde"
+    
     return s1,s2
-print(main())
+print(main("abs","cde"))

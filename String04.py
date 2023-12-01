@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: return answer.
     """
-    return s
-print(main('"qwer"')) 
+    return '"'+s+'"'
+print(main("code")) 

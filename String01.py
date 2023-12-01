@@ -1,4 +1,4 @@
-def main(s):
+def main():
     """"Return an optional string of length eight
     Args:
         None
@@ -6,5 +6,5 @@ def main(s):
         str: return answer.
     """
 
-    return s
-print(main("qwerty"))
+    return "12345678"
+print(main())

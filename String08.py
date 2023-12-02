@@ -7,5 +7,5 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return first,last
-print(main("Zafarbek","Saidaxmadov"))
+    return last, first
+print(main("Zafarbek", "Saidaxmadov"))

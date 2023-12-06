@@ -7,4 +7,3 @@ def main():
         str: return answer.
     """
     return "QWERTY"
-print(main())

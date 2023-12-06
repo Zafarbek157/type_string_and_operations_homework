@@ -1,4 +1,4 @@
-def main():
+def main(s):
     """"Return an optional string of length eight
     Args:
         None

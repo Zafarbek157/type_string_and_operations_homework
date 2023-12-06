@@ -1,4 +1,4 @@
-def main(s):
+def main():
     """
     Return a string whose length is zero.
     Args:

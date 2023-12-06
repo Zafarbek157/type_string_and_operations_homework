@@ -1,4 +1,4 @@
-def main(s):
+def main(s,n):
     """
     Return a string whose length is zero.
     Args:
@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: return answer.
     """
-    return s[0]
-print(main("codeschool.uz"))
+    return s*n
+
+print(main("code",3))

@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: return answer.
     """
-    ret
+    return s[0]
 print(main("codeschool.uz"))

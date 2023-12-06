@@ -7,5 +7,5 @@ def main(s):
         str: return answer.
     """
     
-    return s[0]
+    return 
 print(main("codeschool.uz"))
